@@ -1,6 +1,6 @@
 # Bienvenue sur le profil de **onlyluphy**! 👋
 
-![Tux](https://upload.wikimedia.org/wikipedia/commons/3/39/Tux.png)
+![Tux](https://www.svgrepo.com/show/448236/linux.svg)
 
 ## Compteurs
 

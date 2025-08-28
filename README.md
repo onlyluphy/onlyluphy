@@ -8,7 +8,7 @@
 ```python
 from typing import Tuple, List, Dict
 
-class Tekky:
+class luphy:
     pass
 
 class Attributes(luphy):

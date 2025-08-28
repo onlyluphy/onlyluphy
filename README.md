@@ -1,6 +1,6 @@
 <p align="center">
-    <img alt="Stars" src="https://img.shields.io/github/stars/xtekky?style=for-the-badge&affiliations=OWNER%2CCOLLABORATOR" />
-    <img alt="Views" src="https://komarev.com/ghpvc/?username=xtekky&style=for-the-badge" />
+    <img alt="Stars" src="https://img.shields.io/github/stars/onlyluphy?style=for-the-badge&affiliations=OWNER%2CCOLLABORATOR" />
+    <img alt="Views" src="https://komarev.com/ghpvc/?username=onlyluphy&style=for-the-badge" />
 </p>
 
 <h2 align="center">About Me</h2>

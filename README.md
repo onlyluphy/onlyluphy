@@ -32,3 +32,21 @@ class Attributes(luphy):
         specialities = ['web client/server side', 'pentest', 'ai']
         ide = ['sublimetext']
         return langs, specialities, ide
+
+
+
+<h2 align="center">Skills </h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,golang,cpp,js,ruby" />
+  </a>
+</p>
+
+<p href="https://discord.gg/62qGmsHQaX" align="center">
+    <img alt="" src="https://github-readme-stats.vercel.app/api?username=onlyluphy&theme=tokyonight&show_icons=true">
+</p>
+
+<p href="https://discord.gg/62qGmsHQaX" align="center">
+    <img alt="" src=https://lanyard.cnrad.dev/api/1115378147630788618/>
+</p>

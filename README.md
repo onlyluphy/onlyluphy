@@ -33,7 +33,7 @@ class Attributes(luphy):
         ide = ['sublimetext']
         return langs, specialities, ide
 
-
+```
 
 <h2 align="center">Skills </h2>
 
